@@ -48,3 +48,7 @@ skills/vinted-publication/
 ## Avertissement
 
 Ce skill s'appuie sur l'API interne de Vinted, non documentée et susceptible de changer sans préavis. Il ne publie jamais rien tout seul : il ne crée que des brouillons, la publication reste un geste humain.
+
+## Licence
+
+MIT — voir [LICENSE](LICENSE).
